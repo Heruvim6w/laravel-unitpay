@@ -13,6 +13,8 @@ Accept payments via UnitPay ([unitpay.ru](https://unitpay.ru/)) using this Larav
 
 #### Laravel >= 8.*, PHP >= 7.3
 
+> To use the package for Laravel 8.* use the [4.x](https://github.com/maksa988/laravel-unitpay/) branch
+
 > To use the package for Laravel 7.* use the [3.x](https://github.com/maksa988/laravel-unitpay/tree/3.x) branch
 
 > To use the package for Laravel 6.* use the [2.x](https://github.com/maksa988/laravel-unitpay/tree/2.x) branch

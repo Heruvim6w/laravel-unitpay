@@ -1,5 +1,11 @@
 {
-    "name": "maksa988/laravel-unitpay",
+    "name": "Heruvim6w/laravel-unitpay",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:Heruvim6w/laravel-unitpay.git"
+        }
+    ],
     "description": "UnitPay payments for Laravel",
     "license": "MIT",
     "authors": [
@@ -10,11 +16,11 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "laravel/framework": "8.*",
+        "laravel/framework": "10.*",
         "guzzlehttp/guzzle": "7.*"
     },
     "require-dev": {
-        "phpunit/phpunit": "^8.4 || ^9.3.3",
+        "phpunit/phpunit": "^8.4 || ^9.5.10",
         "orchestra/testbench": "6.*"
     },
     "autoload": {
